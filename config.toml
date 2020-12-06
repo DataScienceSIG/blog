@@ -8,7 +8,7 @@ theme = "minimo"
 disqusShortname = "datasciencesig"
 googleAnalytics = ""
 
-Paginate = 5
+Paginate = 6
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -23,11 +23,11 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "This is the a blog from PSI's Data Science SIG."
+description = "This is the PSI DS SIG blog."
 title404 = "Nothing's here!"
 
 [params.assets]
-favicon = "favicon.ico"
+favicon = "/images/psi_logo.png"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
@@ -55,7 +55,7 @@ hideMainMenu = false
 enable = true
 
 [params.widgets]
-header = ["breadcrumbs"]
+header = []
 homepage = ["recent_posts"]
 sidebar = ["about","search"]
 footer = ["social_menu"]
@@ -76,7 +76,7 @@ titleSeparator = "•"
 codepen = ""
 email = "DataScience.SIG@gmail.com"
 facebook = ""
-github = "https://github.com/DataScienceSIG"
+github = "DataScienceSIG/blog"
 gitlab = ""
 instagram = ""
 linkedin = ""
@@ -86,7 +86,7 @@ google_scholar = ""
 youtube = ""
 
 [params.comments]
-enable = false
+enable = true
 
 # Isso: https://posativ.org/isso/
 [params.comments.isso]
@@ -133,7 +133,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+url = "https://github.com/DataScienceSIG/blog"
 
 [blackfriday]
 hrefTargetBlank = true

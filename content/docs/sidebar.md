@@ -23,6 +23,3 @@ enable = true
 - `params.sidebar` [`Map`]:
   - `enable` [`Boolean`]: Switch for enabling sidebar
 
-## Adding Widgets to Sidebar
-
-For adding Widgets to the Sidebar, check the [Widgets documentation]({{< relref "/docs/widgets.md#available-widget-areas" >}}).

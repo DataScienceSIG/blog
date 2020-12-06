@@ -1,0 +1,13 @@
+{
+    "dialog-state": {
+        "query": "logo",
+        "path": "C:/Users/FC653346/OneDrive - GSK/Desktop/blog",
+        "regex": false,
+        "caseSensitive": false,
+        "filePatterns": [],
+        "excludeFilePatterns": [],
+        "resultsCount": 24,
+        "errorCount": 0,
+        "replaceErrors": ""
+    }
+}

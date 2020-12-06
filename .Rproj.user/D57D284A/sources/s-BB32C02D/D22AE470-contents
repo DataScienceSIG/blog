@@ -68,8 +68,8 @@ pageID = ""
 page = "" # Twitter page username
 
 [params.seo]
-# Title Separator: - – — · • * ⋆ | ~ « » < >
-titleSeparator = "•"
+# Title Separator: - â â Â· â¢ * â | ~ Â« Â» < >
+titleSeparator = "â¢"
 
 [params.social]
 codepen = ""

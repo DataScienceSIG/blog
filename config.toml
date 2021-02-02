@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "/"
 title = "Data Science blog from PSI"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -139,3 +139,8 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

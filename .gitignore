@@ -38,3 +38,6 @@
 ### R.Bookdown Stack ###
 # R package: bookdown caching files
 /*_files/
+
+# Others
+.DS_Store, Thumbs.db
